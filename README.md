@@ -8,7 +8,9 @@ Contract address : 0x713953192CaAdA74026DD0009A69A637a0ce30fB
 
 [Verify COOK on testnet](https://evm-testnet.flowscan.io/token/0x713953192CaAdA74026DD0009A69A637a0ce30fB)
 
-Copy code
+
+-----------
+
 # CookShare
 
 **CookShare** is a Web3 platform where aspiring chefs can share their unique recipes with the world. Users who try out these recipes can support the chefs by donating or funding them, fostering a supportive community around culinary creativity and innovation.
@@ -21,6 +23,7 @@ Copy code
 - **Secure Transactions**: Enables donations and funding using blockchain-based tokens, ensuring safe and verifiable transactions.
 - **Chef Profiles**: Chefs can create profiles to display their work, build a following, and interact with supporters.
 
+-------
 
 First, run the development server:
 
